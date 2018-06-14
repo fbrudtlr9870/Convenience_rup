@@ -1,4 +1,4 @@
-package com.final.rup;
+package com.proj.rup;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * Handles requests for the application home page.
+ * 수정했지요
  */
 @Controller
 public class HomeController {
